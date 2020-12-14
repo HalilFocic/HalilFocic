@@ -13,6 +13,7 @@
 
 [<img align="left" alt="HalilFocic | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 [<img align="left" alt="HalilFocic | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
+[<img align="left" alt="HalilFocic | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
 
 <br />
 
@@ -42,3 +43,4 @@
 
 [instagram]: https://www.instagram.com/halil.focic/
 [linkedin]: https://www.linkedin.com/in/halil-fo%C4%8Di%C4%87-a69418195/
+[twitter]: https://twitter.com/HalilFocic

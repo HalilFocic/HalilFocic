@@ -1,12 +1,6 @@
 ### Hi there, Halil here👋
 
 
-## I'm a software engineering student !!
-
-- 🔭 Student at Faculty of Information Technologies ...
-- 👯 I’m looking to connect with other developers ...
-- 💬 2022 goals: Contribute more and expand knoweledge ...
-
 ### Connect with me:
 
 [<img align="left" alt="HalilFocic | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]

@@ -3,7 +3,7 @@
 Random guy trying to optimize his development workflow & expand his knowledge. Passionate about  crafting quality software and hating Javascript(even tho it feeds me).
 
 ## Random facts about me
- * Currently learning Rust 🦀
+ * Currently learning Rust & Go until I decide which one I like more
  * Love playing football
  * Neovim ftw
  * Hates Windows
